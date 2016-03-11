@@ -1,3 +1,5 @@
+// Based on http://ava.upuaut.net/?p=408
+
 #define ASCII 7          // ASCII 7 or 8
 #define STOPBITS 2       // Either 1 or 2
 #define TXDELAY 0        // Delay between sentence TX's
